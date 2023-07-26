@@ -139,6 +139,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [xTuring](https://github.com/stochasticai/xturing) ![](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=social) - Build and control your personal LLMs with fast and efficient fine-tuning.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.
 - [Dify](https://github.com/langgenius/dify) ![](https://img.shields.io/github/stars/langgenius/dify.svg?style=social) - Open-source framework aims to enable developers (and even non-developers) to quickly build useful applications based on large language models, ensuring they are visual, operable, and improvable.
+- [BudgetML](https://github.com/ebhy/budgetml) ![](https://img.shields.io/github/stars/ebhy/budgetml.svg?style=social) - Deploy a ML inference service on a budget in less than 10 lines of code.
+- [BudgetML](https://github.com/ebhy/budgetml) ![](https://img.shields.io/github/stars/ebhy/budgetml.svg?style=social) - Deploy a ML inference service on a budget in less than 10 lines of code.
+- [Dstack](https://github.com/dstackai/dstack) ![](https://img.shields.io/github/stars/dstackai/dstack.svg?style=social) - Cost-effective LLM development in any cloud (AWS, GCP, Azure, Lambda, etc).
 
 **[⬆ back to ToC](#table-of-contents)**
 
